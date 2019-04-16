@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		1585F11FF39A7AD34DE55D72 /* Pods-SKMediator_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SKMediator_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SKMediator_Example/Pods-SKMediator_Example.release.xcconfig"; sourceTree = "<group>"; };
-		1D61FB3BC64C92C84E47255B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		1D61FB3BC64C92C84E47255B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* SKMediator_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKMediator_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -59,12 +59,12 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		66D85B97C33884DFD8C377F6 /* Pods-SKMediator_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SKMediator_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SKMediator_Tests/Pods-SKMediator_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		6E2146158C9FE540C0BA9171 /* SKMediator.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SKMediator.podspec; path = ../SKMediator.podspec; sourceTree = "<group>"; };
+		6E2146158C9FE540C0BA9171 /* SKMediator.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SKMediator.podspec; path = ../SKMediator.podspec; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76150225706AE4FD90482733 /* Pods-SKMediator_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SKMediator_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SKMediator_Tests/Pods-SKMediator_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AA9FEE8977D703D18BEF8EEF /* Pods_SKMediator_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SKMediator_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B92C01C41430B180511E6683 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B92C01C41430B180511E6683 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E870C7E5B75381781F7A0984 /* Pods_SKMediator_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SKMediator_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F863C869F1D0FCEDB507E43E /* Pods-SKMediator_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SKMediator_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SKMediator_Example/Pods-SKMediator_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
